@@ -1,2 +1,2 @@
 # resetpassword-assignment3
-reset password
+resetting password using form validation and javascript 
